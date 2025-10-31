@@ -33,5 +33,5 @@ This repository contains two parts of my data engineering assignment:
 ### 🚫 Note
 `.env` file is not included (for API key security).  
 You can create your own `.env` file with:
-NEWS_API_KEY=your_api_key
-LLM_API_KEY=your_api_key
+- NEWS_API_KEY=your_api_key
+- LLM_API_KEY=your_api_key
